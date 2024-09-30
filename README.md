@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Al-Hakimi</h1>
+<!--
 <h3 align="center">Application Developer (Flutter, Dart, Kotlin, Jetpack Compose, PHP / Laravel)</h3>
+-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahalhakimi&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahalhakimi" /> </p>
 
