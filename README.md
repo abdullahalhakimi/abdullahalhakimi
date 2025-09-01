@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://dev.to/abdullah_alhakimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abdullah_alhakimi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdullah-al-hakimi-465025221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-al-hakimi-465025221/" height="30" width="40" /></a>
-<a href="https://fb.com/abdullhalhakimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdullah.al.hakimi.739837" height="30" width="40" /></a>
+<a href="https://fb.com/abdullah.al.hakimi.739837" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdullah.al.hakimi.739837" height="30" width="40" /></a>
 <a href="https://instagram.com/abdullhalhakimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdullhalhakimi" height="30" width="40" /></a>
 <a href="https://medium.com/@abdullahalhakimi7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abdullahalhakimi7" height="30" width="40" /></a>
 </p>
