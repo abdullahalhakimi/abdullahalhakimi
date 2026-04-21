@@ -9,6 +9,9 @@
   <a href="https://linkedin.com/in/abdullahalhakimi/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-abdullahalhakimi-0e75b6?style=flat-square&logo=linkedin" alt="abdullahalhakimi" />
   </a>
+  <a href="mailto:abdullahalhakimi7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-abdullah.m.alhakimi%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
@@ -44,9 +47,19 @@
 
 ### 🤝 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/abdullahalhakimi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullahalhakimi" height="30" width="40" /></a>
-<a href="https://dev.to/abdullah_alhakimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abdullah_alhakimi" height="30" width="40" /></a>
-<a href="https://medium.com/@abdullahalhakimi7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abdullahalhakimi7" height="30" width="40" /></a>
-<a href="https://fb.com/abdullah.al.hakimi.739837" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdullah.al.hakimi" height="30" width="40" /></a>
-<a href="https://instagram.com/abdullhalhakimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdullhalhakimi" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/abdullahalhakimi/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="https://dev.to/abdullah_alhakimi" target="blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="devto" />
+  </a>
+  <a href="https://medium.com/@abdullahalhakimi7" target="blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium" />
+  </a>
+  <a href="https://fb.com/abdullah.al.hakimi.739837" target="blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
+  </a>
+  <a href="https://instagram.com/abdullhalhakimi" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+  </a>
 </p>
