@@ -6,9 +6,15 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdullahalhakimi&label=Profile%20views&color=0e75b6&style=flat-square" alt="abdullahalhakimi" />
+  
   <a href="https://linkedin.com/in/abdullahalhakimi/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-abdullahalhakimi-0e75b6?style=flat-square&logo=linkedin" alt="abdullahalhakimi" />
   </a>
+
+  <a href="https://t.me/Abdullah_Alhakimi" target="blank">
+    <img src="https://img.shields.io/badge/Telegram-Abdullah__Alhakimi-26A5E7?style=flat-square&logo=telegram" alt="Telegram" />
+  </a>
+
   <a href="mailto:abdullahalhakimi7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-abdullah.m.alhakimi%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
